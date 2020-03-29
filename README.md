@@ -96,4 +96,4 @@ $ python TestEditor.py
 To test the performance
 ```bash
 $ python performanceTest.py
-```# TextEditor
+```
